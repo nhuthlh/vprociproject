@@ -17,7 +17,7 @@
         <server>
         <id>${CENTRAL_REPO}</id>
       <username>${NEXUS_USER}</username>
-      <password>${NEXUS-PASS}</password>
+      <password>${NEXUS_PASS}</password>
     </server>
     <server>
         <id>${NEXUS_GRP_REPO}</id>
